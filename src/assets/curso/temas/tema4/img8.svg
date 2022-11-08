@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="196" height="202.5" viewBox="0 0 196 202.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.462" y1="0.5" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="red"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_109247" data-name="Grupo 109247" transform="translate(-2661 9627)">
+    <g id="Grupo_81358" data-name="Grupo 81358" transform="translate(2677 -9611)" opacity="0.95" style="isolation: isolate">
+      <rect id="Rectángulo_34187" data-name="Rectángulo 34187" width="164.357" height="164.357" rx="11.5" fill="#dee4f0"/>
+    </g>
+    <g id="Grupo_109124" data-name="Grupo 109124" transform="translate(2661 -9627)">
+      <ellipse id="Elipse_4857" data-name="Elipse 4857" cx="19.5" cy="20" rx="19.5" ry="20" transform="translate(196 40) rotate(180)" fill="#ff9500" opacity="0.8" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <circle id="Elipse_4858" data-name="Elipse 4858" cx="32.412" cy="32.412" r="32.412" transform="translate(64.825 202.5) rotate(180)" fill="#0ca4ca" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+    <g id="Grupo_109126" data-name="Grupo 109126" transform="translate(1741.333 -12334.951)">
+      <path id="Trazado_114809" data-name="Trazado 114809" d="M296,101.04l54.325,52.152H296Z" transform="translate(679 2694.295)" fill="url(#linear-gradient)"/>
+      <path id="Trazado_114810" data-name="Trazado 114810" d="M318,116.252,347.252,87,357.7,97.447l-30.3,30.3-9.4-1.419Z" transform="translate(702.967 2679)" fill="#afafaf"/>
+      <path id="Trazado_114811" data-name="Trazado 114811" d="M318,116.252,347.252,87,357.7,97.447l-30.3,30.3-9.4-1.419Z" transform="translate(702.967 2679)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Trazado_114812" data-name="Trazado 114812" d="M338.073,110.537A12.537,12.537,0,1,1,325.537,98a12.536,12.536,0,0,1,12.537,12.537" transform="translate(697.52 2690.984)" fill="red"/>
+      <circle id="Elipse_4969" data-name="Elipse 4969" cx="12.166" cy="12.166" r="12.166" transform="translate(1010.99 2789.256)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

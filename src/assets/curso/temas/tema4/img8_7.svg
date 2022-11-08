@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="202.5" viewBox="0 0 196 202.5">
+  <g id="Grupo_109254" data-name="Grupo 109254" transform="translate(-2661 7455)">
+    <g id="Grupo_109147" data-name="Grupo 109147" transform="translate(2677 -7439)" opacity="0.95" style="isolation: isolate">
+      <rect id="Rectángulo_34187" data-name="Rectángulo 34187" width="164.357" height="164.357" rx="11.5" fill="#dee4f0"/>
+    </g>
+    <g id="Grupo_109146" data-name="Grupo 109146" transform="translate(2661 -7455)">
+      <ellipse id="Elipse_4857" data-name="Elipse 4857" cx="19.5" cy="20" rx="19.5" ry="20" transform="translate(196 40) rotate(180)" fill="#ff9500" opacity="0.8" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <circle id="Elipse_4858" data-name="Elipse 4858" cx="32.412" cy="32.412" r="32.412" transform="translate(64.825 202.5) rotate(180)" fill="#0ca4ca" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+    <g id="Grupo_109169" data-name="Grupo 109169" transform="translate(2200 -9550.498)">
+      <path id="Trazado_114847" data-name="Trazado 114847" d="M242.769,221.035c0,3.886-7.559,7.035-16.884,7.035S209,224.921,209,221.035,216.559,214,225.884,214s16.884,3.149,16.884,7.035" transform="translate(307 2006.638)" fill="#ff9500"/>
+      <path id="Trazado_114848" data-name="Trazado 114848" d="M246.513,220.357c0,2.589-5.04,4.691-11.256,4.691S224,222.946,224,220.357s5.04-4.691,11.256-4.691,11.256,2.1,11.256,4.691" transform="translate(334.211 2009.66)" fill="#ff9500"/>
+      <path id="Trazado_114849" data-name="Trazado 114849" d="M221.105,229.157h-2.839l-3.529-3.529,3.529-24.637,2.839,2.839,2.814,22.513Z" transform="translate(317.407 1983.039)" fill="#ff9500"/>
+      <path id="Trazado_114850" data-name="Trazado 114850" d="M272.991,198.759h-50.5l-5.7,5.7.6,3.416h7.336l28.7,28.695,28.692-29.235Z" transform="translate(321.124 1978.99)" fill="#ff9500"/>
+      <path id="Trazado_114851" data-name="Trazado 114851" d="M217.388,224.157h7.336l28.7,28.692,28.692-28.692-34.371-34.371-30.955,30.955Z" transform="translate(321.124 1962.712)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

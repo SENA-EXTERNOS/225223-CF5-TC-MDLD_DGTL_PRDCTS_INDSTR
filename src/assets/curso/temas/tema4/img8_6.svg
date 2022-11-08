@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="202.5" viewBox="0 0 196 202.5">
+  <g id="Grupo_109253" data-name="Grupo 109253" transform="translate(-2661 7817)">
+    <g id="Grupo_109144" data-name="Grupo 109144" transform="translate(2677 -7801)" opacity="0.95" style="isolation: isolate">
+      <rect id="Rectángulo_34187" data-name="Rectángulo 34187" width="164.357" height="164.357" rx="11.5" fill="#dee4f0"/>
+    </g>
+    <g id="Grupo_109143" data-name="Grupo 109143" transform="translate(2661 -7817)">
+      <ellipse id="Elipse_4857" data-name="Elipse 4857" cx="19.5" cy="20" rx="19.5" ry="20" transform="translate(196 40) rotate(180)" fill="#ff9500" opacity="0.8" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <circle id="Elipse_4858" data-name="Elipse 4858" cx="32.412" cy="32.412" r="32.412" transform="translate(64.825 202.5) rotate(180)" fill="#0ca4ca" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+    <g id="Grupo_109164" data-name="Grupo 109164" transform="translate(1553.522 -9870.469)">
+      <rect id="Rectángulo_34613" data-name="Rectángulo 34613" width="30.73" height="30.73" transform="translate(1212.313 2113.337)" fill="#e6e6e6"/>
+      <rect id="Rectángulo_34614" data-name="Rectángulo 34614" width="30.73" height="30.73" transform="translate(1212.313 2113.337)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectángulo_34615" data-name="Rectángulo 34615" width="30.73" height="30.73" transform="translate(1167.242 2158.408)" fill="#ff0"/>
+      <rect id="Rectángulo_34620" data-name="Rectángulo 34620" width="30.73" height="30.73" transform="translate(1167.242 2113.337)" fill="red"/>
+      <rect id="Rectángulo_34616" data-name="Rectángulo 34616" width="30.73" height="30.73" transform="translate(1167.242 2158.408)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectángulo_34619" data-name="Rectángulo 34619" width="30.73" height="30.73" transform="translate(1167.242 2113.337)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Trazado_114842" data-name="Trazado 114842" d="M125.279,43.389A16.389,16.389,0,1,1,108.889,27a16.39,16.39,0,0,1,16.389,16.389" transform="translate(1118.788 2129.36)" fill="lime"/>
+      <circle id="Elipse_4992" data-name="Elipse 4992" cx="16.855" cy="16.855" r="16.855" transform="translate(1210.768 2156.294)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectángulo_34621" data-name="Rectángulo 34621" width="22.798" height="22.798" transform="translate(1171.208 2117.303)" fill="#ff4747"/>
+    </g>
+  </g>
+</svg>

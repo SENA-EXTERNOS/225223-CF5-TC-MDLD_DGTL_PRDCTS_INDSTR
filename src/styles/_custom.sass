@@ -1,15 +1,34 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    width: 100px
+    animation: scale 1.8s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 35%
+    right: 60%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    width: 150px
+    animation: scale 1.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 20%
+    right: 5%
+  &-3
+    width: 50px
+    animation: rotation 3.8s infinite
+    position: absolute
+    top: 53%
+    right: 75%
+  &-4
+    width: 45px
+    animation: rotation 3.8s infinite
+    position: absolute
+    top: 20%
+    right: 68%
+  &-5
+    width: 45px
+    animation: rotation 4.8s infinite
+    position: absolute
+    top: 55%
+    right: 10%
 
 @keyframes float1
   0%
@@ -17,3 +36,106 @@
 
   100%
     transform: translateY(0px)
+
+@-webkit-keyframes rotation 
+  from 
+    -webkit-transform: rotate(0deg)  
+  to 
+    -webkit-transform: rotate(359deg)
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+
+@keyframes scale
+  0%
+    transform: scale(1)
+    
+  100%
+    transform: scale(1.2)
+
+.banner-interno__fondo
+  background-image: url('../assets/curso/bg-interno.png') !important
+.tabs-a__tab 
+    background-color: #E8E8E8
+
+.linea-tiempo-c__header__btn--left
+  background-color: #FF9500
+  border-color: #FF9500
+
+.linea-tiempo-c__header__btn--right 
+  background-color: #FF9500
+  border-color: #FF9500
+
+.bloque-izq
+  .bloque-texto-g__img
+    right: 0
+    left: auto
+    width: 50%
+  .bloque-texto-g__texto--border
+    position: relative
+    width: 100%
+  .bloque-texto-g__texto
+    width: 70%
+.acordion__accion__btn--a
+  background-color: #ffffff !important
+  &:after
+    background-color: $color-acento-contenido !important
+
+.acordion__activo
+  background-color: #E8E8E8 !important
+
+///// Custom acordeon A tipo A -------------------------------------- 
+
+
+.acordion__accion__btn--a
+  background-color: #FECA2E !important
+
+.acordion__activo
+  background-color: #FFF7E0 !important
+
+///custom tarjetas avatar tema 3
+.tarjeta-avatar
+  width: 350px
+  height: 350px
+
+.tarjeta-avatar > img 
+    position: absolute
+    left: 50%
+    top: 15px
+    transform: translateX(-50%)
+    display: block
+    width: 130px
+    margin: 0 auto
+
+.tarjeta-avatar .tarjeta 
+    display: inline-block
+    padding-top: 30px !important
+    height: 100%
+
+.tarjeta--amarilla-1
+  background-color: #E8E8E8
+  
+
+.tarjeta--azul
+  background-color: #FFFFFF
+//----------------------------------------
+.cajon--amarillo-1
+  background-color: #feca2ece
+.cajon--azul-1
+  background-color: #0ca4ca3d
+
+.img-infografica-b__modal
+    background-color: #B3C2C9
+
+.img-infografica-b__modal__contenido div > * 
+    color: #000 !important
+
+.img-infografica.color-secundario .img-infografica__item__dot:before, .img-infografica.color-secundario .img-infografica__item__dot:after, .img-infografica.color-secundario .img-infografica-b__item__dot:before, .img-infografica.color-secundario .img-infografica-b__item__dot:after, .img-infografica-b.color-secundario .img-infografica__item__dot:before, .img-infografica-b.color-secundario .img-infografica__item__dot:after, .img-infografica-b.color-secundario .img-infografica-b__item__dot:before, .img-infografica-b.color-secundario .img-infografica-b__item__dot:after
+    background-color: #ff9500
+
+.img-infografica.color-primario .img-infografica__item__dot:before, .img-infografica.color-primario .img-infografica__item__dot:after, .img-infografica.color-primario .img-infografica-b__item__dot:before, .img-infografica.color-primario .img-infografica-b__item__dot:after, .img-infografica-b.color-primario .img-infografica__item__dot:before, .img-infografica-b.color-primario .img-infografica__item__dot:after, .img-infografica-b.color-primario .img-infografica-b__item__dot:before, .img-infografica-b.color-primario .img-infografica-b__item__dot:after 
+    background-color: #ff9500

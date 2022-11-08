@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="202.5" viewBox="0 0 196 202.5">
+  <g id="Grupo_109252" data-name="Grupo 109252" transform="translate(-2661 8179)">
+    <g id="Grupo_109141" data-name="Grupo 109141" transform="translate(2677 -8163)" opacity="0.95" style="isolation: isolate">
+      <rect id="Rectángulo_34187" data-name="Rectángulo 34187" width="164.357" height="164.357" rx="11.5" fill="#dee4f0"/>
+    </g>
+    <g id="Grupo_109140" data-name="Grupo 109140" transform="translate(2661 -8179)">
+      <ellipse id="Elipse_4857" data-name="Elipse 4857" cx="19.5" cy="20" rx="19.5" ry="20" transform="translate(196 40) rotate(180)" fill="#ff9500" opacity="0.8" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <circle id="Elipse_4858" data-name="Elipse 4858" cx="32.412" cy="32.412" r="32.412" transform="translate(64.825 202.5) rotate(180)" fill="#0ca4ca" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+    <g id="Grupo_109163" data-name="Grupo 109163" transform="translate(1795 -10560)">
+      <line id="Línea_189" data-name="Línea 189" y2="46.857" transform="translate(974.429 2456)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_190" data-name="Línea 190" x2="46.857" transform="translate(951 2479.429)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect id="Rectángulo_34609" data-name="Rectángulo 34609" width="39" height="39" transform="translate(898.929 2459.929)" fill="#e6e6e6"/>
+      <rect id="Rectángulo_34610" data-name="Rectángulo 34610" width="39" height="39" transform="translate(898.929 2459.929)" fill="none" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_191" data-name="Línea 191" y1="1.789" x2="1.746" transform="translate(952.429 2499.211)" fill="none" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_192" data-name="Línea 192" y1="2.693" x2="2.627" transform="translate(954.175 2496.518)" fill="none" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="0 4.762"/>
+      <line id="Línea_193" data-name="Línea 193" y1="34.084" x2="33.254" transform="translate(957.5 2461.719)" fill="none" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="4.762 0 0 4.762"/>
+      <line id="Línea_194" data-name="Línea 194" y1="1.79" x2="1.746" transform="translate(990.754 2459.928)" fill="none" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_195" data-name="Línea 195" y2="26.857" transform="translate(1019.429 2466)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_196" data-name="Línea 196" x2="26.857" transform="translate(1006 2479.429)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Trazado_114815" data-name="Trazado 114815" d="M323,24a7,7,0,1,1-7-7,7,7,0,0,1,7,7" transform="translate(703.429 2455)" fill="#ff4747"/>
+      <circle id="Elipse_4970" data-name="Elipse 4970" cx="7" cy="7" r="7" transform="translate(1012.429 2472)" fill="none" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_201" data-name="Línea 201" y2="46.857" transform="translate(918.429 2456)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_202" data-name="Línea 202" x2="46.857" transform="translate(895 2479.429)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
