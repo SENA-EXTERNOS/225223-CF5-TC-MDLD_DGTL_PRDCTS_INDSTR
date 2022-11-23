@@ -7,10 +7,10 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/arrastrar-soltar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Arrastrar y soltar
+          h2 Post- procesamiento de datos y nubes de puntos
         p.mb-4 Apreciado aprendiz, a continuación, encontrará unos enunciados relacionados con los temas estudiados en el presente componente de formación. Usted debe asociar las fichas de la columna derecha con la izquierda. Adelante.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

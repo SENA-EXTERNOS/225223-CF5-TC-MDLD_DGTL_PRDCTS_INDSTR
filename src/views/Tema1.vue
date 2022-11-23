@@ -9,12 +9,12 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p(data-aos="fade-down").mb-0 Antes de abordar el tema de planificación de escaneo 3D es pertinente recordar cual es la función u objeto de un escáner 3D, que es la de crear una #[b nube de puntos] de la superficie del objeto a escanear; lo anterior se hace por medio de un sensor. Estos puntos se pueden usar para #[b extrapolar], que es hacer la #[b reconstrucción digital] del objeto, además de ello si el color está incluido en la información obtenida en estos puntos se puede extrapolar también.
+            p(data-aos="fade-down").mb-0 Antes de abordar el tema de planificación de escaneo 3D es pertinente recordar cuál es la función u objeto de un escáner 3D, que es la de crear una #[b nube de puntos] de la superficie del objeto a escanear; lo anterior se hace por medio de un sensor. Estos puntos se pueden usar para #[b extrapolar], que es hacer la #[b reconstrucción digital] del objeto, además de ello si el color está incluido en la información obtenida en estos puntos se puede extrapolar también.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p(data-aos="fade-down") Es útil recordar que el escáner 3D difiere de las cámaras digitales en el proceso de captura de la imagen, de esta manera.
@@ -39,15 +39,14 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p(data-aos="fade-down") El modelo de la pieza o la imagen resultante de un proceso utilizando escáner 3D es la expresión de la posición tridimensional de cada uno de los puntos analizados de la pieza u objeto escaneado.
+        p(data-aos="fade-down") El #[b modelo] de la pieza o la imagen resultante de un proceso utilizando escáner 3D es la expresión de la posición tridimensional de cada uno de los puntos analizados de la pieza u objeto escaneado.
         p(data-aos="fade-down") Cuando se está realizando el escáner de un objeto se deben tener algunas consideraciones:
     
-    TabsA.color-acento-contenido
+    TabsA.color-acento-contenido.mb-5
       .tarjeta.color-adicional-1--borde.p-4(titulo="Tipo de escáner")        
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Tipo de escáner
               p Se debe de empezar conociendo o indagando que tipo de escáner se utilizará para así saber cuáles son sus características o prestaciones.
           .col-xl-6.mb-4
             figure
@@ -56,8 +55,7 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Características del objeto
-              p Se debe conocer el tipo de escáner para poder tomar todo los detalles morfológicos y las características físicas que constituyen al objeto, que se está tratando por medio del escáner 3D.
+              p Se debe conocer el tipo de escáner para poder tomar todos los detalles morfológicos y las características físicas que constituyen al objeto, que se está tratando por medio del escáner 3D.
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img4.png', alt='')
@@ -65,7 +63,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Tecnología del escáner
               p Se debe tener en cuenta si el escáner debe ser de características de láser o de luz estructurada, para así saber si los sensores o cámaras tomarán bien los registros necesarios del objeto para su posterior digitalización.
           .col-xl-6.mb-4
             figure
@@ -74,7 +71,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Preparación del objeto
               p Se analiza la preparación del objeto a escanear debido a que se está trabajando a una escala de detalle importante; por no decir que alta y exigente, donde el objeto debe estar expuesto de manera natural para así tener un símil digital adecuado.
           .col-xl-6.mb-4
             figure
@@ -83,7 +79,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Exposición del objeto
               p No se debe exponer el objeto durante el proceso a superficies que reflejen o sean de características tipo transparentes.
           .col-xl-6.mb-4
             figure
@@ -92,7 +87,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Iluminación
               p El objeto a escanear debe tener muy buena iluminación; lo anterior se realiza para que los sensores (cámaras) puedan capturar al objeto con todos sus contornos, detalles característicos y rasgos especiales que lo componen.
           .col-xl-6.mb-4
             figure
@@ -100,7 +94,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .cajon.color-acento-botones.cajon--amarillo-1.p-3.p-sm-4(style="opacity:0.75")
+        .cajon.color-acento-botones.cajon--amarillo-1.p-3.p-sm-4
           p(data-aos="fade-down").mb-4 En la mayoría de los casos, un solo escaneo no dará como resultado un modelo total del objeto; por lo tanto, es usual que se requieran varias tomas y en algunos casos demasiadas, al igual que en diferentes direcciones, para así obtener todos los lados posibles del objeto. Estos variados escaneos #[b tienen que estar vinculados a un sistema de referencia mediante la alineación], haciendo que se puedan transformar las coordenadas de cada una de las tomas en coordenadas generales.
     separador
 
@@ -124,7 +118,7 @@
       .col-lg-12
         p(data-aos="fade-down") Las siguientes son algunas características del proceso de un escáner láser tradicional.
 
-    .tarjeta.tarjeta--gris.p-4
+    .tarjeta.tarjeta--gris.p-4.mb-5
       LineaTiempoC.color-acento-botones(text-small)
         .row.justify-content-center.align-items-center.mb-5(titulo="Paso 1")
           .col-md-6.mb-4.mb-md-0
@@ -186,12 +180,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .bloque-izq.mb-5(data-aos="zoom-in")
-          .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+          .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
             .bloque-texto-g__img.d-flex.align-items-center
               img(src='@/assets/curso/temas/tema1/img11.png', alt='')
             .bloque-texto-g__texto--border.p-2.d-inline-block
               .bloque-texto-g__texto.p-4
-                p.mb-0 Este tipo de escáner o de tecnología de escáner, utiliza el proceso de triangulación trigonométrica, su diferencia es que proyecta un patrón de luz al escanear el objeto y no una línea.
+                p.mb-0 Este tipo de escáner o de tecnología de escáner, utiliza el proceso de triangulación trigonométrica, su diferencia es que proyecta un #[b patrón de luz] al escanear el objeto y no una línea.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -203,7 +197,7 @@
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema1/img12.png", alt="alt").img400.m-auto
         .col-lg-8
-          AcordionA.mb-2.color-acento-botones(tipo="a" clase-tarjeta="tarjeta acordeonA")
+          AcordionA.mb-2.color-acento-botones(tipo="a" clase-tarjeta="tarjeta ca-ab")
             .row.justify-content-center.mb-4(titulo="Proyector de luz")
               .col-10
                 p.mb-0 El cual se proyecta o se enfoca sobre el objeto utilizando un proyector tipo LCD o una fuente de luz estable.
@@ -219,7 +213,7 @@
            
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .cajon.color-acento-botones.cajon--amarillo-1.p-3.p-sm-4(style="opacity:0.75")
+        .cajon.color-acento-botones.cajon--amarillo-1.p-3.p-sm-4
           p(data-aos="fade-down").mb-4 Los escáneres 3D de luz estructurada proyectan un patrón de luz en el objeto y analizan la deformación del patrón producida por la geometría del escáner. El modelo digital resultante puede ser unidimensional o de dos dimensiones.
 
     .row.justify-content-center.align-items-center
@@ -233,24 +227,28 @@
       .col-lg-12
         p(data-aos="fade-down").mb-4 Un ejemplo de un modelo unidimensional es una línea; a continuación, se encontrarán las características de este modelo.
     
-    SlyderF(columnas="col-lg-6 col-xl-4")
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFDCAB")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/img13.svg' alt='')
         p.text-center(style="color:#000000") La línea se proyecta sobre el objeto que se analiza con un proyector de LCD o un láser.
+        br
+        br
       
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFDCAB")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/img13.svg' alt='')
         p.text-center(style="color:#000000") Una cámara desviada levemente del proyector de modelo ayuda a comprobar la forma de la línea.
+        br
       
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFDCAB")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/img13.svg' alt='')
         p.text-center(style="color:#000000") La cámara usa una técnica semejante a la triangulación para calcular la distancia de cada punto en la línea.
+        br
       
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFDCAB")
         .row.justify-content-center.mb-3
@@ -301,7 +299,7 @@
 
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-12
-            .cajon.cajon--azul-1.color-acento-contenido.p-3.p-sm-4(style="background-color:#0ca4ca3d")
+            .cajon.cajon--azul-1.color-acento-contenido.p-3.p-sm-4
               p(data-aos="fade-down").mb-4 Es importante considerar entonces una serie de rayas verticales paralelas de láser que barren horizontalmente a través de un blanco. En el caso más sencillo, uno podría analizar una imagen y asumir que la secuencia izquierda-derecha de rayas que reflejan la sucesión de los láseres en la serie, así de esta manera la raya de extremo izquierdo de la imagen es el primer láser; el próximo es el segundo láser, etcétera.
         
         p(data-aos="fade-down") En objetivos no triviales que contienen cambio de patrón, hoyos, oclusiones y de profundidad; sin embargo, esta secuencia se descompone como rayas que a veces se esconden o pueden aparecer incluso con el orden cambiado, teniendo como resultado la ambigüedad de raya de láser.
@@ -340,7 +338,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .cajon.color-acento-botones.cajon--amarillo-1.p-3.p-sm-4(style="opacity:0.75")
+        .cajon.color-acento-botones.cajon--amarillo-1.p-3.p-sm-4
           p(data-aos="fade-down").mb-4 Lo anterior se indica para que los sensores puedan capturar mejor al objeto en su superficie, es decir en su contorno y detalles característicos.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -399,7 +397,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Cómo
               p Se define cómo se captura la información del objeto a escanear.
           .col-xl-6.mb-4
             figure
@@ -408,7 +405,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Dónde
               p Se identifica dónde se deberá colocar el escáner y los elementos necesarios para el proceso en el lugar, formando una estación de escaneo.
           .col-xl-6.mb-4
             figure
@@ -417,7 +413,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Grabar
               p Se pueden grabar las ubicaciones del escaneo en el software del mismo de manera paulatina y revisar como se mueve a través de la zona a escanear para así saber cuáles son las zonas que ya están escaneadas del objeto.
           .col-xl-6.mb-4
             figure
@@ -426,7 +421,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Boceto
               p Se puede realizar un boceto a mano para identificar los puntos de escaneo y esto dará una mayor precisión para trazar estos puntos y saber dónde están ubicados.
           .col-xl-6.mb-4
             figure
@@ -435,7 +429,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Personal
               p También se debe tener en cuenta el personal asignado para planificar el sitio; esto es para saber qué escáner se debe utilizar, como es la luz, si se debe cambiar de lugar el objeto, por ello es importante que las personas que estén en el sitio en donde se escaneara tengan experiencia en el uso del equipo de escaneo 3D que se ha elegido. Por ejemplo, la creación de puntos de control de inspección del sitio debe requerir diferentes habilidades e insumos de equipos de escaneo 3D.
           .col-xl-6.mb-4
             figure
@@ -462,7 +455,7 @@
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema1/img28.svg", alt="alt").img400.m-auto
         .col-lg-8
-          AcordionA.mb-2.color-acento-botones(tipo="a" clase-tarjeta="tarjeta acordeonA")
+          AcordionA.mb-2.color-acento-botones(tipo="a" clase-tarjeta="tarjeta ca-ab")
             .row.justify-content-center.mb-4(titulo="Ambiente del lugar u objeto")
               .col-10
                 p.mb-0 El escáner realiza mediciones dentro de la línea de visión, por ello un ambiente con muchas características como obstáculos difíciles de cubrir o pasillos pequeños requerirá muchos más escaneos.
@@ -480,7 +473,7 @@
                 p.mb-0 Para los proyectos u objetos pequeños se puede simplificar el trabajo con una inspección meramente visual.
             .row.justify-content-center.mb-4(titulo="<em>Softwares</em> auxiliares")
               .col-10
-                p.mb-0 Para proyectos macro ò complejos se debe emplear software de modelado, esto para que se puedan ayudar a identificar las ubicaciones donde el escaneo no pueda llegar, ya sea porque es una esquina o un detalle muy pequeño a donde el escáner no puede llegar.
+                p.mb-0 Para proyectos macro ó complejos se debe emplear software de modelado, esto para que se puedan ayudar a identificar las ubicaciones donde el escaneo no pueda llegar, ya sea porque es una esquina o un detalle muy pequeño a donde el escáner no puede llegar.
             .row.justify-content-center.mb-4(titulo="Superposición para unión")
               .col-10
                 p.mb-0 Depende del #[i software] que se utilice y de la complejidad de la morfología del objeto o espacio del entorno que esté escaneando se necesitará una superposición del 30 % al 50 % para unir con precisión los escaneos para que así de una buena imagen resultante.          
@@ -500,21 +493,18 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        TabsC.color-primario.mb-5
+        TabsC.color-acento-contenido.mb-5
           .py-3.py-md-4(titulo="Experiencia en minimizar la cantidad en el proceso")
             .row        
               .col-md-12.mb-4.mb-md-0
-                h4 Experiencia en minimizar la cantidad en el proceso
                 p Para una nube de puntos (compuesta) los escaneos se construyen o se fabrican uno detrás de otro en una secuencia a partir de un escaneo inicial; es decir, cuantos más pasos se den desde el escaneo inicial, mayor será el error. Lo anterior se puede minimizar; sin embargo, por la naturaleza del trabajo o proceso de escaneado 3D este no se puede eliminar.
           .py-3.py-md-4(titulo="Planificación de lugar")
             .row
               .col-md-12
-                h4 Planificación de lugar
                 p Un paso vital en la planificación del lugar es poder dar cuenta del número total de escaneos que se requieren para obtener una buena cobertura de la zona; cuando esto se realiza de manera errónea tiende a crear errores de propagación pues no se pueden manejar los parámetros de precisión de las especificaciones en el escaneo.
           .py-3.py-md-4(titulo="Analizar la cantidad de escaneos")
             .row
               .col-md-12
-                h4 Analizar la cantidad de escaneos
                 p Este es un paso crítico en el proceso de la creación de una nube de puntos, para poder encontrar precisión se deben conocer o evaluar muy bien la cantidad de escaneos necesarios, esto para tomar la imagen más acertada de manera final. Es por esto por lo que siempre se debe asegurar la precisión que se necesita en un proyecto; es decir, de lo que se requiere proyectar.
       .col-lg-5
         figure
@@ -575,7 +565,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .bloque-izq.mb-5(data-aos="zoom-in")
-          .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+          .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
             .bloque-texto-g__img.d-flex.align-items-center
               img(src='@/assets/curso/temas/tema1/img32.svg', alt='')
             .bloque-texto-g__texto--border.p-2.d-inline-block

@@ -32,10 +32,11 @@
         p .ply (#[i Polygon File Format] ó Formato de archivo de polígono) este formato almacena propiedades como el color, descripción de la superficie, coordenadas espaciales de objetos tipo 3D.
 
       .tarjeta.color-acento-botones.p-3(x="84.3%" y="89.5%" numero="")
-        p .obj (#[i Wavefront] OBJ – Object- ó frente de onda) este formato almacena propiedades como el color y la textura de objetos tipo 3D.
+        p vrml (#[i Virtual Reality Modeling] Language o Lenguaje de modelado de realidad virtual) representa escenas u objetos de tipo interactivo o tridimensional (3D)
       
       .tarjeta.color-acento-botones.p-3(x="15.7%" y="89.5%" numero="")        
-        p vrml (#[i Virtual Reality Modeling] Language o Lenguaje de modelado de realidad virtual) representa escenas u objetos de tipo interactivo o tridimensional (3D)
+        p .obj (#[i Wavefront] OBJ – Object- ó frente de onda) este formato almacena propiedades como el color y la textura de objetos tipo 3D.
+        
 </template>
 
 <script>

@@ -140,14 +140,14 @@ export default {
       referencia:
         'Artec 3D. (2018). <em>Obtención de un modelo 3D exacto de una motocicleta utilizando los Artec Eva y Artec Space Spider</em>. ',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=fSGtFQ0uWIc',
+      link: 'https://www.youtube.com/watch?v=fSGtFQ0uWIc',
     },
     {
       tema: 'Tratamiento de modelos tridimensionales ',
       referencia:
         'Grupo SYSTOP: SYSTOP, <em>3DlaserSolutions. (2021). Generación de modelos tridimensionales mediante nube de puntos de escáner láser aplicado en minería</em>. [video]. Youtube.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=CSP-ht4CkQQ',
+      link: 'https://www.youtube.com/watch?v=CSP-ht4CkQQ',
     },
     {
       tema: 'Preparación del objeto a escanear',
@@ -161,14 +161,14 @@ export default {
       referencia:
         '<em>SolidServicios</em>. (2021). <em>SOLIDWORKS</em> TUTORIAL- Exportar a <em>Xdesing</em>. [video]. Youtube. ',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=G_T9VY4FH3s',
+      link: 'https://www.youtube.com/watch?v=G_T9VY4FH3s',
     },
     {
       tema: '<em>Geomagic</em>',
       referencia:
         '3D Systems en Español. (2020). Herramientas de Nubes de Puntos. [video]. Youtube. ',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=T3xSfNLpi5s',
+      link: 'https://www.youtube.com/watch?v=T3xSfNLpi5s',
     },
   ],
   glosario: [
@@ -188,9 +188,9 @@ export default {
         'técnica digital, que se utiliza para someter un objeto a un proceso por emisión de luz a ser captura de su morfología en sus tres dimensiones para plasmarlo en imágenes digitales.',
     },
     {
-      termino: 'Escaneo 3D',
+      termino: 'Escáner 3D de luz estructurada',
       significado:
-        'técnica digital, que se utiliza para someter un objeto a un proceso por emisión de luz a ser captura de su morfología en sus tres dimensiones para plasmarlo en imágenes digitales.',
+        'tipo de escáner físico que utiliza el proceso de triangulación trigonométrica; su diferencia es que proyecta un patrón de luz y no una línea de láser para escanear.',
     },
     {
       termino: 'Flujo de trabajo',
@@ -200,7 +200,7 @@ export default {
     {
       termino: '<em>Geomagic</em>',
       significado:
-        '<em>software</em> de ingeniería que permite la creación de imágenes 3D gracias al escaneo de esta misma tecnología (3D), donde la utilización de estos modelos tridimensionales se hace de manera común como se hace con un software CAD tradicional.',
+        '<em>software</em> de ingeniería que permite la creación de imágenes 3D gracias al escaneo de esta misma tecnología (3D), donde la utilización de estos modelos tridimensionales se hace de manera común como se hace con un <em>software</em> CAD tradicional.',
     },
     {
       termino: 'obj',

@@ -80,22 +80,18 @@
     width: 100%
   .bloque-texto-g__texto
     width: 70%
-.acordion__accion__btn--a
-  background-color: #ffffff !important
-  &:after
-    background-color: $color-acento-contenido !important
 
-.acordion__activo
-  background-color: #E8E8E8 !important
 
 ///// Custom acordeon A tipo A -------------------------------------- 
-
-
-.acordion__accion__btn--a
-  background-color: #FECA2E !important
-
+.acordion
+  .ca-ab
+    background-color: #F6F6F6
+    &.acordion__activo
+      background-color: #E8E8E8
+  
 .acordion__activo
-  background-color: #FFF7E0 !important
+  .acordion__accion__btn--a
+    background-color: #0CA4CA 
 
 ///custom tarjetas avatar tema 3
 .tarjeta-avatar
@@ -125,8 +121,12 @@
 //----------------------------------------
 .cajon--amarillo-1
   background-color: #feca2ece
+
 .cajon--azul-1
-  background-color: #0ca4ca3d
+  background-color: #0ca4ca13
+
+.cajon.color-acento-contenido
+  background-color: #0ca4ca1e
 
 .img-infografica-b__modal
     background-color: #B3C2C9
@@ -139,3 +139,29 @@
 
 .img-infografica.color-primario .img-infografica__item__dot:before, .img-infografica.color-primario .img-infografica__item__dot:after, .img-infografica.color-primario .img-infografica-b__item__dot:before, .img-infografica.color-primario .img-infografica-b__item__dot:after, .img-infografica-b.color-primario .img-infografica__item__dot:before, .img-infografica-b.color-primario .img-infografica__item__dot:after, .img-infografica-b.color-primario .img-infografica-b__item__dot:before, .img-infografica-b.color-primario .img-infografica-b__item__dot:after 
     background-color: #ff9500
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero
+    background-color: #FF9500
+    
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+    color:#000000
+      
+.cajon.color-acento-botones 
+    background-color: #ffefd9
+
+.img-infografica-b.color-secundario .img-infografica-b__item__numero
+  color: #000 !important
+
+.slyder-a__bullets__item 
+    background-color: #1B3F5E
+
+.titulo-segundo.color-acento-contenido:after
+    border-left-color: #FF9500
+
+.tabs-c.color-acento-contenido .tabs-c__tab--active    
+  font-weight: bold
+
+.slyder-a__btn--atrs
+  background-color: #FF9500
+.slyder-a__btn--sigt
+  background-color: #FF9500

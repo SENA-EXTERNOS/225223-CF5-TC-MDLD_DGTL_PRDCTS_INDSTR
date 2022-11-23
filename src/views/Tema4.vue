@@ -60,7 +60,7 @@
         figure
           img(src='@/assets/curso/temas/tema4/img6.svg', alt='')
       .col-lg-10
-        p(data-aos="fade-down").mb-4 Este programa como todo software CAD, tiene variadas herramientas para el tratamiento de las imágenes resultantes en el proceso de escaneo 3D Sin embargo, a continuación se van a mencionar las herramientas que tienen más uso y relevancia, en cuanto a proceso de escaneo 3D. Las herramientas que más se usan en este programa son:
+        p(data-aos="fade-down").mb-4 Este programa como todo #[em software] CAD, tiene variadas herramientas para el tratamiento de las imágenes resultantes en el proceso de escaneo 3D Sin embargo, a continuación se van a mencionar las herramientas que tienen más uso y relevancia, en cuanto a proceso de escaneo 3D. Las herramientas que más se usan en este programa son:
     
     .row.justify-content-center.align-items-center.md-5
       .col-10
