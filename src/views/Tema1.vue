@@ -242,12 +242,14 @@
             img(src='@/assets/curso/temas/tema1/img13.svg' alt='')
         p.text-center(style="color:#000000") Una cámara desviada levemente del proyector de modelo ayuda a comprobar la forma de la línea.
         br
+        br
       
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFDCAB")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/img13.svg' alt='')
         p.text-center(style="color:#000000") La cámara usa una técnica semejante a la triangulación para calcular la distancia de cada punto en la línea.
+        br
         br
       
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFDCAB")
@@ -525,7 +527,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Tiempo de ejecución
               p Uno de los mayores ahorros que se deben tener en estos procesos a nivel de escaneo 3d es el tiempo de ejecución.
           .col-xl-6.mb-4
             figure
@@ -534,7 +535,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Alineación
               p También se debe tener en cuenta si hay una alineación de nube a nube deficiente; es decir, si se está escaneado uno sobre otro en las zonas.
           .col-xl-6.mb-4
             figure
@@ -543,7 +543,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Superposición de escaneo
               p Revisar si necesita una superposición mayor o con más cantidad, esto para garantizar un buen registro y así evitar pérdida de tiempo.
           .col-xl-6.mb-4
             figure
@@ -552,7 +551,6 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              h4 Múltiple escaneo
               p En el procesamiento se pueden crear múltiples escaneos de zona, es decir del mismo punto o lugar que se ha escaneado; este proceso constituye los árboles de escaneo, que pueden ser tan grandes como sea necesario para los requisitos de precisión. Lo anterior se construye con base en lo que se requiere en el trabajo y las características del objeto a escanear o del espacio, con ello se reduce más los errores de propagación que se mencionaron anteriormente.
           .col-xl-6.mb-4
             figure
