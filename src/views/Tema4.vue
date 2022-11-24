@@ -83,7 +83,7 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_1.svg', alt='')(style="width:8%")                
-                p.mb-2 #[b Escáner]: esta herramienta se utiliza para analizar un objeto dando como resultado la construcción de su modelo digital de manera tridimensional, por medio del proceso de escáner 3D.
+                p.mb-2 Esta herramienta se utiliza para analizar un objeto dando como resultado la construcción de su modelo digital de manera tridimensional, por medio del proceso de escáner 3D.
           div(x="22.6%" y="44.2%" tooltip="Alineación" numero="+")
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-4                
@@ -92,7 +92,7 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_22.svg', alt='')(style="width:8%")            
-                p.mb-2 #[b Alineación]: esta herramienta se estructura para alinear y combinar las diferentes imágenes o cenas (digitales) resultantes del proceso del escaneo cuando se somete un objeto a este tipo de procedimiento.
+                p.mb-2 Esta herramienta se estructura para alinear y combinar las diferentes imágenes o cenas (digitales) resultantes del proceso del escaneo cuando se somete un objeto a este tipo de procedimiento.
           div(x="38.6%" y="44.2%" tooltip="Pincel" numero="+")
            .row.justify-content-center.align-items-center.mb-5
               .col-lg-4                
@@ -101,7 +101,7 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_33.svg', alt='')(style="width:8%")            
-                p.mb-2 #[b Pincel]: esta herramienta permite seleccionar partes dentro de una ruta dibujada a mano alzada en la pantalla.
+                p.mb-2 Esta herramienta permite seleccionar partes dentro de una ruta dibujada a mano alzada en la pantalla.
           div(x="54.6%" y="44.2%" tooltip="Región" numero="+")
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-4                
@@ -110,7 +110,7 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_44.svg', alt='')(style="width:8%")            
-                p.mb-2 #[b Región]: esta herramienta explora las diferentes regiones o caras de las que pueda estar constituida la imagen general; que se está conformada de las diferentes imágenes que produce al ser puesto el objeto frente al escáner 3D.
+                p.mb-2 Esta herramienta explora las diferentes regiones o caras de las que pueda estar constituida la imagen general; que se está conformada de las diferentes imágenes que produce al ser puesto el objeto frente al escáner 3D.
           div(x="74%" y="44.2%" tooltip="Plano y vector" numero="+")
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-4                
@@ -119,7 +119,7 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_55.svg', alt='')(style="width:8%")            
-                p.mb-2 #[b Plano y vector]: estas herramientas ayudan o facilitan la referencia geométrica de la imagen escaneada.
+                p.mb-2 Estas herramientas ayudan o facilitan la referencia geométrica de la imagen escaneada.
           div(x="93.3%" y="44.2%" tooltip="Alineación interactiva" numero="+")
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-4                
@@ -128,7 +128,7 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_66.svg', alt='')(style="width:8%")            
-                p.mb-2 #[b Alineación interactiva]: esta herramienta ayuda o facilita alinear las imágenes resultantes del objeto escaneado en las diferentes coordenadas (x, y, z), respectivamente.
+                p.mb-2 Esta herramienta ayuda o facilita alinear las imágenes resultantes del objeto escaneado en las diferentes coordenadas (x, y, z), respectivamente.
           div(x="18.1%" y="56.4%" tooltip="Llenar orificios" numero="+")
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-4                
@@ -137,7 +137,7 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_77.svg', alt='')(style="width:8%")            
-                p.mb-2 #[b Llenar orificios]: con esta herramienta se llenan los agujeros o espacios, que hayan quedado inconclusos en la malla, para que así la figura pueda tener una apariencia más consistente a la real.
+                p.mb-2 Con esta herramienta se llenan los agujeros o espacios, que hayan quedado inconclusos en la malla, para que así la figura pueda tener una apariencia más consistente a la real.
           div(x="34%" y="56.4%" tooltip="Boceto" numero="+")
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-4                
@@ -146,7 +146,7 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_88.svg', alt='')(style="width:8%")            
-                p.mb-2 #[b Boceto]: esta herramienta se utiliza para hacer un boceto o malla preliminar; esto después de los anteriores cambios que se le hayan realizado a las imágenes o escenas digitales escaneadas.
+                p.mb-2 Esta herramienta se utiliza para hacer un boceto o malla preliminar; esto después de los anteriores cambios que se le hayan realizado a las imágenes o escenas digitales escaneadas.
           div(x="50.1%" y="56.4%" tooltip="Modelo" numero="+")
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-4                
@@ -155,7 +155,7 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_99.svg', alt='')(style="width:8%")            
-                p.mb-2 #[b Modelo]: con esta herramienta se corta la sección de la pieza para rellenar y visualizar los ejes que la componen.
+                p.mb-2 Con esta herramienta se corta la sección de la pieza para rellenar y visualizar los ejes que la componen.
           div(x="66.1%" y="56.4%" tooltip="Mapas de entorno" numero="+")
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-4                
@@ -164,7 +164,7 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_101.svg', alt='')(style="width:8%")            
-                p.mb-2 #[b Mapas de entorno]: esta herramienta permite visualizar rayas de cebra en la superficie para mostrar su continuidad.
+                p.mb-2 Esta herramienta permite visualizar rayas de cebra en la superficie para mostrar su continuidad.
           div(x="82%" y="56.4%" tooltip="Modo de visualización de curvatura de la malla" numero="+")
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-4                
@@ -173,11 +173,11 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_111.svg', alt='')(style="width:8%")            
-                p.mb-2 #[b Modo de visualización de curvatura de la malla]: esta herramienta permite activar o desactivar la visibilidad del mapa de curvatura de la malla. 
+                p.mb-2 Esta herramienta permite activar o desactivar la visibilidad del mapa de curvatura de la malla. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .cajon.color-acento-botones.cajon--amarillo-1.p-3.p-sm-4(style="opacity:0.75")
+        .cajon.color-acento-botones.cajon--amarillo-1.p-3.p-sm-4
           p(data-aos="fade-down").mb-4 Es importante revisar los demás recursos disponibles en el menú principal, estos permiten ampliar los conocimientos adquiridos y revisar los que ya se estudiaron.
 
 </template>
