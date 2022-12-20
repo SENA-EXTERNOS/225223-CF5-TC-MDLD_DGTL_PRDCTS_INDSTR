@@ -11,7 +11,8 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Post- procesamiento de datos y nubes de puntos
-        p.mb-4 Apreciado aprendiz, a continuación, encontrará unos enunciados relacionados con los temas estudiados en el presente componente de formación. Usted debe asociar las fichas de la columna derecha con la izquierda. Adelante.
+        p Apreciado aprendiz, el objetivo de esta actividad es asociar conceptos relacionados con el procesamiento de datos y nubes de punto junto con su definición correspondiente, los cuales fueron vistos en este componente.
+        p Arrastre la palabra que considere correcta como respuesta a la descripción dada, de esta forma puede repasar los temas que se deben tener en cuenta durante el proceso de escaneo 3D y el tratamiento de modelos tridimensionales.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

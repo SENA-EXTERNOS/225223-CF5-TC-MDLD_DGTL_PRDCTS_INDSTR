@@ -14,10 +14,16 @@
             :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p(data-aos="fade-down").mb-0 Antes de abordar el tema de planificación de escaneo 3D es pertinente recordar cuál es la función u objeto de un escáner 3D, que es la de crear una #[b nube de puntos] de la superficie del objeto a escanear; lo anterior se hace por medio de un sensor. Estos puntos se pueden usar para #[b extrapolar], que es hacer la #[b reconstrucción digital] del objeto, además de ello si el color está incluido en la información obtenida en estos puntos se puede extrapolar también.
+            p(data-aos="fade-down").mb-0 Antes de abordar el tema de planificación de escaneo 3D, es pertinente recordar cuál es la función u objeto de un escáner 3D, es decir, la creación de  una 
+              b nube de puntos 
+              | de la superficie del objeto a escanear, por medio de un sensor. Estos puntos se pueden usar para 
+              b extrapolar
+              | ; es decir, la 
+              b reconstrucción digital 
+              | del objeto. Además, es posible extrapolar el color, en caso de estar incluido en la información obtenida en estos puntos.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p(data-aos="fade-down") Es útil recordar que el escáner 3D difiere de las cámaras digitales en el proceso de captura de la imagen, de esta manera.
+        p(data-aos="fade-down") Es útil recordar que el escáner 3D difiere de las cámaras digitales en el proceso de captura de la imagen, como se muestra a continuación:
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12
@@ -164,7 +170,7 @@
 
         .row.justify-content-center.align-items-center.mb-5(titulo="Paso 6")
           .col-md-6.mb-4.mb-md-0
-            p Con lo anterior al tener el conocimiento de la distancia del escáner al objeto hacer tratado por el mismo, la parte física de este(#[i hardware]), puede hacer un mapa (#[b mapear]) la superficie del objeto y con ello expresarlo en un modelo ya digital propiamente dicho.
+            p Con lo anterior al tener el conocimiento de la distancia del escáner al objeto hacer tratado por el mismo, la parte física de este (#[i hardware]), puede hacer un mapa (#[b mapear]) la superficie del objeto y con ello expresarlo en un modelo ya digital propiamente dicho.
         
           .col-md-6
             figure
@@ -315,7 +321,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
         p(data-aos="fade-down") Para la preparación se debe recordar que el escaneo 3D se constituye #[b como el proceso que se hace para transferir un determinado objeto real, desde el mundo físico hacia el mundo digital o virtual] si es que se le puede llamar así, donde ésta se convierte en una herramienta poderosa en la creación de prototipos de futuros productos en especial en el sector industrial.
-        p(data-aos="fade-down") Es importante que al instante que se vaya a hacer el escáner de un determinado objeto, siempre se consideren las siguientes al momento de preparar el objeto:
+        p(data-aos="fade-down") Es importante que al instante que se vaya a hacer el escáner de un determinado objeto, siempre se consideren las siguientes indicaciones al momento de preparar el objeto:
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema1/img18.svg', alt='')
@@ -415,7 +421,9 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              p Se pueden grabar las ubicaciones del escaneo en el software del mismo de manera paulatina y revisar como se mueve a través de la zona a escanear para así saber cuáles son las zonas que ya están escaneadas del objeto.
+              p Se pueden grabar las ubicaciones del escaneo en el 
+                em software 
+                | del mismo de manera paulatina y revisar como se mueve a través de la zona a escanear para así saber cuáles son las zonas que ya están escaneadas del objeto.
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img26.svg', alt='')
@@ -431,7 +439,7 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              p También se debe tener en cuenta el personal asignado para planificar el sitio; esto es para saber qué escáner se debe utilizar, como es la luz, si se debe cambiar de lugar el objeto, por ello es importante que las personas que estén en el sitio en donde se escaneara tengan experiencia en el uso del equipo de escaneo 3D que se ha elegido. Por ejemplo, la creación de puntos de control de inspección del sitio debe requerir diferentes habilidades e insumos de equipos de escaneo 3D.
+              p También se debe tener en cuenta el personal asignado para planificar el sitio; esto es para saber qué escáner se debe utilizar, cómo es la luz, si se debe cambiar de lugar el objeto, por ello es importante que las personas que estén en el sitio en donde se escaneará tengan experiencia en el uso del equipo de escaneo 3D que se ha elegido. Por ejemplo, la creación de puntos de control de inspección del sitio debe requerir diferentes habilidades e insumos de equipos de escaneo 3D.
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img26.svg', alt='')
@@ -475,7 +483,9 @@
                 p.mb-0 Para los proyectos u objetos pequeños se puede simplificar el trabajo con una inspección meramente visual.
             .row.justify-content-center.mb-4(titulo="<em>Softwares</em> auxiliares")
               .col-10
-                p.mb-0 Para proyectos macro ó complejos se debe emplear software de modelado, esto para que se puedan ayudar a identificar las ubicaciones donde el escaneo no pueda llegar, ya sea porque es una esquina o un detalle muy pequeño a donde el escáner no puede llegar.
+                p.mb-0 Para proyectos macro ó complejos se debe emplear 
+                  em software 
+                  | de modelado, esto para que se puedan ayudar a identificar las ubicaciones donde el escaneo no pueda llegar, ya sea porque es una esquina o un detalle muy pequeño a donde el escáner no puede llegar.
             .row.justify-content-center.mb-4(titulo="Superposición para unión")
               .col-10
                 p.mb-0 Depende del #[i software] que se utilice y de la complejidad de la morfología del objeto o espacio del entorno que esté escaneando se necesitará una superposición del 30 % al 50 % para unir con precisión los escaneos para que así de una buena imagen resultante.          
@@ -551,7 +561,7 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              p En el procesamiento se pueden crear múltiples escaneos de zona, es decir del mismo punto o lugar que se ha escaneado; este proceso constituye los árboles de escaneo, que pueden ser tan grandes como sea necesario para los requisitos de precisión. Lo anterior se construye con base en lo que se requiere en el trabajo y las características del objeto a escanear o del espacio, con ello se reduce más los errores de propagación que se mencionaron anteriormente.
+              p En el procesamiento se pueden crear múltiples escaneos de zona, es decir del mismo punto o lugar que se ha escaneado; este proceso constituye los árboles de escaneo, que pueden ser tan grandes como sea necesario para los requisitos de precisión. Lo anterior se construye con base en lo que se requiere en el trabajo y las características del objeto a escanear o del espacio, con ello se reducen más los errores de propagación que se mencionaron anteriormente.
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img31.svg', alt='')

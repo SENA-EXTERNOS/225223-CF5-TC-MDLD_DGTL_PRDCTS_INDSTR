@@ -65,9 +65,10 @@
     .row.justify-content-center.align-items-center.md-5
       .col-10
         .titulo-sexto.color-acento-contenido
-          h5(data-aos="fade-down") Figura 1
+          h5(data-aos="fade-down") Figura 1.
           br
-          span Herramientas de Geomagic
+          span Herramientas de 
+            em Geomagic
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
