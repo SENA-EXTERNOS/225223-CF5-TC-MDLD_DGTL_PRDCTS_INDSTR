@@ -40,7 +40,7 @@
         .row.justify-content-center.align-items-center.mb-5          
           .col-md-6.mb-4.mb-md-0
             h3 #[i Software] de diseño (3D)
-            p #[i Geomagic Design] es un #[i software] de diseño (mecánico) con énfasis en sistemas y ensamblajes (mecánicos), adicionalmente se tiene el #[i Geomagic Design X], #[i Design Direct], #[i Studio] y #[i Wrap], que son #[i softwares] que ofrecen diferentes flujos de trabajo para crear modelos tipo 3D para la fabricación de manera inmediata, incluido el modelado sólido y sus correspondientes superficie NURBS (representaciones matemáticas de geometría en 3D). 
+            p #[i Geomagic Design] es un #[i software] de diseño (mecánico) con énfasis en sistemas y ensamblajes (mecánicos), adicionalmente se tiene el #[i Geomagic Design X], #[i Design Direct], #[i Studio] y #[i Wrap], que son #[i softwares] que ofrecen diferentes flujos de trabajo para crear modelos tipo 3D para la fabricación de manera inmediata, incluido el modelado sólido y su correspondiente superficie NURBS (representaciones matemáticas de geometría en 3D). 
 
           .col-md-6
             figure

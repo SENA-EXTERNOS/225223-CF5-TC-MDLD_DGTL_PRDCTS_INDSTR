@@ -423,7 +423,7 @@
             div.p-3(style="background-color:#DAF1F7")
               p Se pueden grabar las ubicaciones del escaneo en el 
                 em software 
-                | del mismo de manera paulatina y revisar como se mueve a través de la zona a escanear para así saber cuáles son las zonas que ya están escaneadas del objeto.
+                | del mismo de manera paulatina y revisar cómo se mueve a través de la zona a escanear para así saber cuáles son las zonas que ya están escaneadas del objeto.
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img26.svg', alt='')
@@ -483,7 +483,7 @@
                 p.mb-0 Para los proyectos u objetos pequeños se puede simplificar el trabajo con una inspección meramente visual.
             .row.justify-content-center.mb-4(titulo="<em>Softwares</em> auxiliares")
               .col-10
-                p.mb-0 Para proyectos macro ó complejos se debe emplear 
+                p.mb-0 Para proyectos macro o complejos se debe emplear 
                   em software 
                   | de modelado, esto para que se puedan ayudar a identificar las ubicaciones donde el escaneo no pueda llegar, ya sea porque es una esquina o un detalle muy pequeño a donde el escáner no puede llegar.
             .row.justify-content-center.mb-4(titulo="Superposición para unión")
