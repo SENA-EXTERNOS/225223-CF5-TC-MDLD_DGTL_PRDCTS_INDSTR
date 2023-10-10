@@ -14,7 +14,7 @@
             :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img1.svg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p(data-aos="fade-down").mb-0 El tratamiento de los modelos tridimensionales (imágenes digitales) que resultan del proceso de someter un objeto a un escáner 3d es variado; las imágenes de estos modelos tridimensionales son fácilmente exportables a un computador común y el espectro o la gama para trabajarlos es amplia; hay desde programas o #[i softwares] gratuitos o de licencia. Entre los #[i softwares] de licencia más potentes para la edición y creación de estos modelos los más representativos que existen en el mercado, en especial para el sector industrial de tipo CAD son; #[i SolidWorks], #[i SolidEdge] y #[i Autodesk], entre otros. 
+            p(data-aos="fade-down").mb-0 El tratamiento de los modelos tridimensionales (imágenes digitales) que resultan del proceso de someter un objeto a un escáner 3D es variado; las imágenes de estos modelos tridimensionales son fácilmente exportables a un computador común y el espectro o la gama para trabajarlos es amplia; hay desde programas o #[i softwares] gratuitos o de licencia. Entre los #[i softwares] de licencia más potentes para la edición y creación de estos modelos los más representativos que existen en el mercado, en especial para el sector industrial de tipo CAD son; #[i SolidWorks], #[i SolidEdge] y #[i Autodesk], entre otros. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -32,7 +32,7 @@
         p .ply (#[i Polygon File Format] ó Formato de archivo de polígono) este formato almacena propiedades como el color, descripción de la superficie, coordenadas espaciales de objetos tipo 3D.
 
       .tarjeta.color-acento-botones.p-3(x="84.3%" y="89.5%" numero="")
-        p vrml (#[i Virtual Reality Modeling] Language o Lenguaje de modelado de realidad virtual) representa escenas u objetos de tipo interactivo o tridimensional (3D)
+        p .vrml (#[i Virtual Reality Modeling] Language ó Lenguaje de modelado de realidad virtual) representa escenas u objetos de tipo interactivo o tridimensional (3D)
       
       .tarjeta.color-acento-botones.p-3(x="15.7%" y="89.5%" numero="")        
         p .obj (#[i Wavefront] OBJ – Object- ó frente de onda) este formato almacena propiedades como el color y la textura de objetos tipo 3D.

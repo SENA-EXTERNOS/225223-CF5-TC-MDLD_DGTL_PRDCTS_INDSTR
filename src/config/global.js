@@ -225,7 +225,7 @@ export default {
     {
       termino: 'vrml',
       significado:
-        'de su abreviatura del inglés que significa lenguaje de modelado de realidad virtual representa escenas u objetos de tipo interactivo o tridimensional (3D).',
+        'de su abreviatura del inglés (<i>Virtual Reality Modeling Language</i>) que significa lenguaje de modelado de realidad virtual representa escenas u objetos de tipo interactivo o tridimensional (3D).',
     },
     {
       termino: '3D',

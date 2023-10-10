@@ -537,7 +537,7 @@
         .row
           .col-xl-6
             div.p-3(style="background-color:#DAF1F7")
-              p Uno de los mayores ahorros que se deben tener en estos procesos a nivel de escaneo 3d es el tiempo de ejecución.
+              p Uno de los mayores ahorros que se deben tener en estos procesos a nivel de escaneo 3D es el tiempo de ejecución.
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img31.svg', alt='')

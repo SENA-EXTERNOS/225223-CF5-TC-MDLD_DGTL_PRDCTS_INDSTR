@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        p(data-aos="fade-down") #[i Geomagic] es un #[i software] de ingeniería que permite la creación de imágenes 3D gracias al escaneo de esta misma tecnología (3D); la utilización de estos modelos tridimensionales se hace de manera común como se hace con un #[i software] CAD tradicional. Dentro de este #[i software] se observan o tratan las características del modelo (imagen capturada por el escáner) como son la #[b superficie], #[b la geometría], detalles de #[b textura] entre otras, para convertirlo luego en un modelo CAD tipo 3D; permitiendo diseñar y utilizar estas imágenes para la publicación de estos modelos tridimensionales, exportándolos en cualquier plataforma CAD habitual para su utilización, como lo son #[i SOLIDWORKS], #[i Autodesk Inventor] o #[i Catia], que están entre los #[i softwares] más utilizados para el tratamiento en modelos tridimensionales, en especial para de productos de tipo industriales y de ingeniería.         
+        p(data-aos="fade-down") #[i Geomagic] es un #[i software] de ingeniería que permite la creación de imágenes 3D gracias al escaneo de esta misma tecnología (3D); la utilización de estos modelos tridimensionales se hace de manera común como se hace con un #[i software] CAD tradicional. Dentro de este #[i software] se observan o tratan las características del modelo (imagen capturada por el escáner) como son la #[b superficie], #[b la geometría], detalles de #[b textura] entre otras, para convertirlo luego en un modelo CAD tipo 3D; permitiendo diseñar y utilizar estas imágenes para la publicación de estos modelos tridimensionales, exportándolos en cualquier plataforma CAD habitual para su utilización, como lo son #[i SOLIDWORKS], #[i Autodesk Inventor] o #[i Catia], que están entre los #[i softwares] más utilizados para el tratamiento en modelos tridimensionales, en especial para productos de tipo industriales y de ingeniería.         
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema4/img1.svg', alt='')
@@ -60,7 +60,7 @@
         figure
           img(src='@/assets/curso/temas/tema4/img6.svg', alt='')
       .col-lg-10
-        p(data-aos="fade-down").mb-4 Este programa como todo #[em software] CAD, tiene variadas herramientas para el tratamiento de las imágenes resultantes en el proceso de escaneo 3D Sin embargo, a continuación se van a mencionar las herramientas que tienen más uso y relevancia, en cuanto a proceso de escaneo 3D. Las herramientas que más se usan en este programa son:
+        p(data-aos="fade-down").mb-4 Este programa como todo #[em software] CAD, tiene variadas herramientas para el tratamiento de las imágenes resultantes en el proceso de escaneo 3D. Sin embargo, a continuación se van a mencionar las herramientas que tienen más uso y relevancia, en cuanto a proceso de escaneo 3D. Las herramientas que más se usan en este programa son:
     
     .row.justify-content-center.align-items-center.md-5
       .col-10
@@ -93,7 +93,7 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_22.svg', alt='')(style="width:8%")            
-                p.mb-2 Esta herramienta se estructura para alinear y combinar las diferentes imágenes o cenas (digitales) resultantes del proceso del escaneo cuando se somete un objeto a este tipo de procedimiento.
+                p.mb-2 Esta herramienta se estructura para alinear y combinar las diferentes imágenes o escenas (digitales) resultantes del proceso del escaneo cuando se somete un objeto a este tipo de procedimiento.
           div(x="38.6%" y="44.2%" tooltip="Pincel" numero="+")
            .row.justify-content-center.align-items-center.mb-5
               .col-lg-4                
@@ -111,7 +111,7 @@
               .col-lg-8
                 figure.mb-4
                   img(src='@/assets/curso/temas/tema4/img8_44.svg', alt='')(style="width:8%")            
-                p.mb-2 Esta herramienta explora las diferentes regiones o caras de las que pueda estar constituida la imagen general; que se está conformada de las diferentes imágenes que produce al ser puesto el objeto frente al escáner 3D.
+                p.mb-2 Esta herramienta explora las diferentes regiones o caras de las que pueda estar constituida la imagen general; que está conformada de las diferentes imágenes que produce al ser puesto el objeto frente al escáner 3D.
           div(x="74%" y="44.2%" tooltip="Plano y vector" numero="+")
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-4                
